@@ -4,7 +4,8 @@ This project demonstrates a fully automated CI/CD pipeline for deploying a multi
 
 ## Project Status
 
-**Status:** In Progress 🚧 - Stage 1 (Infrastructure) Complete
+
+**Status:** Stage 1 Complete ✅ - AWS Infrastructure (VPC & EKS) is provisioned.
 
 ## Core Concepts Demonstrated
 
