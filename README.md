@@ -21,7 +21,7 @@ graph TD
     %% Define the main groups (subgraphs) first for clarity.
     
     subgraph "Developer Workflow"
-        Dev["<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='40' /><br>Developer"]
+        Dev["<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='40' /><br> Developer"]
     end
 
     subgraph "GitHub (CI/CD)"
