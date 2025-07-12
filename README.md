@@ -12,7 +12,7 @@ This project demonstrates a complete, production-style platform for deploying an
 
 Below is a screenshot of a pre-configured Grafana dashboard, automatically deployed by the `kube-prometheus-stack` Helm chart. It displays real-time metrics scraped from the Kubernetes cluster, providing instant visibility into the health and performance of the running pods and nodes.
 
-![Grafana Dashboard](image/grafana-dahboard.PNG)
+![Grafana Dashboard](image/grafana-dahboard.png)
 
 ## Architecture Diagram
 
