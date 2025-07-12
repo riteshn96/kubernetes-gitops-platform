@@ -4,10 +4,11 @@ This project demonstrates a fully automated CI/CD pipeline for deploying a multi
 
 ## Project Status
 
-**Status:** Stage 3 Complete ✅
+**Status:** Stage 4 Complete ✅
 -   **Stage 1:** AWS Infrastructure (VPC & EKS) is provisioned.
 -   **Stage 2:** Demo application has been forked.
 -   **Stage 3:** Automated CI Pipeline (GitHub Actions & ECR) is functional.
+-   **Stage 4:** GitOps CD Pipeline (Argo CD) is deploying the application.
 
 ## Core Concepts Demonstrated
 
